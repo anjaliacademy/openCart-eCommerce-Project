@@ -1,0 +1,54 @@
+13:23:31.152 [main] INFO  testCases.TC_002_LoginTest - entered email and password
+13:23:32.212 [main] INFO  testCases.TC_002_LoginTest - clicked login to MyAccountPage..!!
+13:23:32.212 [main] INFO  testCases.TC_002_LoginTest - calling MyAccountpage pageObject!!!
+13:23:32.382 [main] INFO  testCases.TC_002_LoginTest - targer myAcoount page is detected..!!
+13:23:32.382 [main] INFO  testCases.TC_002_LoginTest - TC_002 ran succesfully ..!!
+13:52:20.369 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+13:52:20.440 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+13:52:21.083 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+13:52:21.871 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+13:52:22.988 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+13:52:25.752 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+13:52:25.752 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+13:52:31.004 [main] INFO  testCases.TC_002_LoginTest - ***Started TC_002_LoginTest*****
+13:52:31.004 [main] DEBUG testCases.TC_002_LoginTest - ****debug started***
+13:52:31.004 [main] INFO  testCases.TC_002_LoginTest - calling homePage pageObject!!!
+13:52:31.770 [main] INFO  testCases.TC_002_LoginTest - clicked on myAcount.
+13:52:32.288 [main] INFO  testCases.TC_002_LoginTest - clicked on loginBtn under MyAccount.
+13:52:32.289 [main] INFO  testCases.TC_002_LoginTest - calling loginPage pageObject!!!
+13:52:32.655 [main] INFO  testCases.TC_002_LoginTest - entered email and password
+13:52:33.201 [main] INFO  testCases.TC_002_LoginTest - clicked login to MyAccountPage..!!
+13:52:33.201 [main] INFO  testCases.TC_002_LoginTest - calling MyAccountpage pageObject!!!
+13:52:33.254 [main] INFO  testCases.TC_002_LoginTest - targer myAcoount page is detected..!!
+13:52:33.254 [main] INFO  testCases.TC_002_LoginTest - TC_002 ran succesfully ..!!
+14:23:53.394 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+14:23:53.467 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+14:23:54.324 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+14:23:55.076 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+14:23:56.948 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+14:24:00.366 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+14:24:00.366 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+14:24:06.826 [main] INFO  testCases.TC_002_LoginTest - ***Started TC_002_LoginTest*****
+14:24:06.826 [main] DEBUG testCases.TC_002_LoginTest - ****debug started***
+14:24:06.826 [main] INFO  testCases.TC_002_LoginTest - calling homePage pageObject!!!
+14:24:07.776 [main] INFO  testCases.TC_002_LoginTest - clicked on myAcount.
+14:24:08.390 [main] INFO  testCases.TC_002_LoginTest - clicked on loginBtn under MyAccount.
+14:24:08.390 [main] INFO  testCases.TC_002_LoginTest - calling loginPage pageObject!!!
+14:24:08.799 [main] INFO  testCases.TC_002_LoginTest - entered email and password
+14:24:09.995 [main] INFO  testCases.TC_002_LoginTest - clicked login to MyAccountPage..!!
+14:24:09.995 [main] INFO  testCases.TC_002_LoginTest - calling MyAccountpage pageObject!!!
+14:24:10.057 [main] INFO  testCases.TC_002_LoginTest - targer myAcoount page is detected..!!
+14:24:10.057 [main] INFO  testCases.TC_002_LoginTest - TC_002 ran succesfully ..!!
+14:36:33.757 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+14:36:33.856 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+14:36:34.297 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+14:36:35.036 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+14:36:38.489 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+14:36:41.677 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+14:36:41.677 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+14:36:46.334 [main] INFO  testCases.TC_002_LoginTest - ***Started TC_002_LoginTest*****
+14:36:46.334 [main] DEBUG testCases.TC_002_LoginTest - ****debug started***
+14:36:46.334 [main] INFO  testCases.TC_002_LoginTest - calling homePage pageObject!!!
+14:36:46.486 [main] INFO  testCases.TC_002_LoginTest - clicked on myAcount.
+14:36:46.979 [main] INFO  testCases.TC_002_LoginTest - clicked on loginBtn under MyAccount.
+14:36:46.980 [main] INFO  testCases.TC_002_LoginTest - calling loginPage pageObject!!!

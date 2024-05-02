@@ -1,0 +1,5 @@
+14:36:47.365 [main] INFO  testCases.TC_002_LoginTest - entered email and password
+14:36:47.980 [main] INFO  testCases.TC_002_LoginTest - clicked login to MyAccountPage..!!
+14:36:47.980 [main] INFO  testCases.TC_002_LoginTest - calling MyAccountpage pageObject!!!
+14:36:48.038 [main] INFO  testCases.TC_002_LoginTest - targer myAcoount page is detected..!!
+14:36:48.038 [main] INFO  testCases.TC_002_LoginTest - TC_002 ran succesfully ..!!

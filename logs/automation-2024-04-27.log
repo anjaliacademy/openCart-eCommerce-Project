@@ -1,0 +1,49 @@
+18:07:16.389 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+18:07:16.600 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked myaccount  
+18:07:17.120 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn
+18:07:17.870 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page
+18:07:18.968 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn
+18:07:22.192 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected
+18:10:23.099 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+18:10:23.281 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+18:10:23.839 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+18:10:24.516 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+18:10:25.605 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+18:10:28.520 [main] ERROR testCases.TC_001_AccountRegistrationPage - msg is not as expected so,..test is failed..!!
+18:11:57.145 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+18:11:57.280 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+18:11:57.828 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+18:11:58.668 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+18:11:59.672 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+18:12:02.599 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+18:12:02.599 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+20:07:56.577 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+20:07:56.710 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+20:07:57.341 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+20:07:58.147 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+20:07:59.203 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+20:08:02.162 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+20:08:02.163 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+20:12:15.808 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+20:12:15.957 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+20:12:16.086 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+20:12:17.153 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+20:12:18.308 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+20:12:21.603 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+20:12:21.603 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+20:19:06.970 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+20:19:07.151 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+20:19:07.729 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+20:19:08.432 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+20:19:09.502 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+20:19:12.407 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+20:19:12.407 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+20:19:18.738 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+20:19:18.739 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
+20:19:18.896 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on registration btn..
+20:19:19.786 [main] INFO  testCases.TC_001_AccountRegistrationPage - Enterning registration details in page..
+20:19:20.907 [main] INFO  testCases.TC_001_AccountRegistrationPage - clicked on continue btn..
+20:19:24.064 [main] INFO  testCases.TC_001_AccountRegistrationPage - msg is as expected.
+20:19:24.064 [main] INFO  testCases.TC_001_AccountRegistrationPage - ***Test case is completed****
+20:20:37.952 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - ***** Account registration test cases Started***
+20:20:38.577 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on myaccount btn..  
